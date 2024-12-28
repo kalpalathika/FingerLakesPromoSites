@@ -17,7 +17,7 @@ This repository contains three unique single-page themes designed to promote the
 
 ## Wireframes
 
-- [**Theme 1 Wireframe**](https://www.figma.com/design/oaOkyM9VTU6AMu89730JYs/Final-Practicals?node-id=0-1&t=FWHurjkycqkfa69Y-1) - Link to the wireframes for all 3 themes.
+- [**Wireframes**](https://www.figma.com/design/oaOkyM9VTU6AMu89730JYs/Final-Practicals?node-id=0-1&t=FWHurjkycqkfa69Y-1) - Link to the wireframes for all 3 themes.
 
 ## Screenshots
 
