@@ -19,10 +19,19 @@ This repository contains three unique single-page themes designed to promote the
 
 - [**Wireframes**](https://www.figma.com/design/oaOkyM9VTU6AMu89730JYs/Final-Practicals?node-id=0-1&t=FWHurjkycqkfa69Y-1) - Link to the wireframes for all 3 themes.
 
-## Screenshots
+## Landing Section Images
 
-Desktop and mobile previews included for each theme (as shown above).
+### Theme 1
+![Theme 1 Landing Section](https://example.com/theme1-landing.jpg)  
+A bold and colorful design emphasizing scenic imagery and engaging calls-to-action.
 
+### Theme 2
+![Theme 2 Landing Section](https://example.com/theme2-landing.jpg)  
+A vibrant, interactive layout with registration forms for cultural events.
+
+### Theme 3
+![Theme 3 Landing Section](https://example.com/theme3-landing.jpg)  
+A sophisticated, elegant look showcasing the natural and historical beauty of the Finger Lakes.
 ## How to Use
 
 1. Clone the repository:
