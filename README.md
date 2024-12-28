@@ -22,15 +22,15 @@ This repository contains three unique single-page themes designed to promote the
 ## Landing Section Images
 
 ### Theme 1
-![Theme 1 Landing Section](https://example.com/theme1-landing.jpg)  
+![Theme 1 Landing Section](images/Theme1.png)  
 A bold and colorful design emphasizing scenic imagery and engaging calls-to-action.
 
 ### Theme 2
-![Theme 2 Landing Section](https://example.com/theme2-landing.jpg)  
+![Theme 2 Landing Section](images/Theme2.png)  
 A vibrant, interactive layout with registration forms for cultural events.
 
 ### Theme 3
-![Theme 3 Landing Section](https://example.com/theme3-landing.jpg)  
+![Theme 3 Landing Section](images/Theme3.png)  
 A sophisticated, elegant look showcasing the natural and historical beauty of the Finger Lakes.
 ## How to Use
 
